@@ -1,4 +1,5 @@
-export interface IPosts {
-  loading: Boolean,
-  posts: []
+export interface ISinglePost {
+  id: number
+  postId: number
+  body: string
 }

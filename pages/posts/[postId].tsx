@@ -1,10 +1,8 @@
 
-const PostId = (postId: string) => {
+const PostId = () => {
   return (
-    <div>
-      {postId}
-    </div>
+    <h1>Post ID</h1>
   )
 }
 
-  export default PostId
+export default PostId

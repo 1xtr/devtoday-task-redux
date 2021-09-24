@@ -23,7 +23,6 @@ const TopMenu = styled.nav`
 const Main = styled.main`
   margin-top: 50px;
   padding: 0 calc(50vw - 450px);
-  background-color: antiquewhite;
 `
 
 
